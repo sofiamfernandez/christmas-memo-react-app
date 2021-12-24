@@ -1,0 +1,14 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    color: coral;
+}
